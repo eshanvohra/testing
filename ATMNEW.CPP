@@ -127,6 +127,7 @@ cout<<endl<<endl<<"Press Y to withdraw more"<<endl;
 if(getch()=='y' || getch()=='Y')
 {goto start;
 }
+ cout<<endl<<"End";
 getch();
 }
 
