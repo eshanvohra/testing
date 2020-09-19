@@ -29,7 +29,7 @@ if(amt<=268000)
 		}
 	    }
 
-
+///added by eshan vohra
 	 if(b!=0 && n/500<=100 && b>n/500)
       {cout<<endl<<"Give "<<n/500<<" notes of 500";
        b=b-n/500;
